@@ -1,2 +1,1 @@
-# ResponsiveLandingPage
-Mobile responsive landing page
+# Mobile Responsive Landing Page
